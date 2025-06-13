@@ -1,0 +1,14 @@
+/*-- scss:defaults --*/
+
+// Colors
+$baby-blue: #E3F1F2;
+$dark-blue: #252D5C;
+$orange: #F26C25;
+$white: #ffffff;
+
+// Sass vars
+$body-bg: $baby-blue;
+$body-color: $dark-blue; 
+$link-color: $orange; 
+$footer-bg: $dark-blue;
+$navbar-bg: $white;

@@ -1,0 +1,13 @@
+---
+title: " "
+---
+
+<div style="text-align: center;">
+## Welcome to my personal website, where you can learn more about me and the projects I am working on. 
+
+![](media/2023_0604_SophiaUCSB_Grad_Photos_2_0116_copy.jpg){fig-align="center" width="842"}
+
+---
+
+### Thank you for visiting!
+</div>

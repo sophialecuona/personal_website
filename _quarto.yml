@@ -1,0 +1,32 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Sophia (Lecuona) Manos"
+  navbar:
+    logo: media/logo_wave.svg
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: data_projects.qmd
+        text: Projects
+      - href: written_works.qmd
+        text: Videos
+      - href: presentations.qmd
+        text: Presentations
+      - href: contact.qmd
+        text: Contact
+        
+  page-footer:
+    left: sophiamireille@bren.ucsb.edu
+    right: Source code available on [{{< fa brands github title="the GitHub octocat" >}} GitHub](https://github.com/samanthacsik/OHI-methods-EXAMPLE)
+
+format:
+  html:
+    theme: styles.css
+    #css: styles.css
+    toc: false
+

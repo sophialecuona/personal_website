@@ -1,0 +1,56 @@
+---
+title: "Projects"
+toc: true
+---
+
+## Finding Balance in Our Managed Beaches
+
+*Policy Recommendations to Mitigate Emergency Sediment Disposal Impacts in Santa Barbara County*
+
+::: {layout-ncol=2}
+
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcmEjMTaT6P0t7J0jgPYjOjBG0jYGKwRmkeTgISy46AyVvttFXoLLo7Pu5qaVFYUcSIVClHb7wwWTFCd1nr45UMiMJTSJiEHE51xU-uVNxUQBFZQTrn6K7uFLFCPxxesuSap9UH9w?key=9WpDRTgeiAKdg-FNHM2SLw){width="300"}
+
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeK7nkKwlzO-s2l1rujDxXZMDButHmZMxeEqhvdTO8EKvXvizW0IS4ZkorQ37PFTgJCM0b1ATUgC0KIpWIzk9Y0mKhIS_WDCTpht-eQyHAltRcC8sbKr1uJ2zH0HRC3mLMlylJioQ?key=9WpDRTgeiAKdg-FNHM2SLw){width="300"}
+
+:::
+
+### Does inland sediment on beaches increase the chance of beach advisories?
+
+*Modeling AB 411 Fecal Coliform Exceedances*
+
+This is a report on the modeling of exceedances of AB411 at Goleta Beach and Carpinteria Beach, aiming to understand the influence of sediment deposition. TThe analysis focuses on the relationship between sediment deposition, streamflow discharge, rainfall, and water quality exceedances. The goal is to determine if deposition events are associated with water quality (fecal indicator bacteria) exceedances, which have public health implications.
+
+This was in association with the non-profit Santa Barbara Channelkeeper, and the results of the analysis are documented within [this report](https://bren.ucsb.edu/sites/default/files/2025-04/DebrisEase_FinalReport.pdf).
+
+[View Code](fib_exceed_modeling_copy.html)
+
+### Who is affected by beach advisories and closures?
+
+*A Beach Demographics and Activities Survey*
+
+The second project objective for the project in association with Santa Barbara Channelkeeper focused on identifying potential populations affected by emergency sediment deposition activities that historically occurred between October and February. The “Beach Demographic and Activity Survey” was conducted to gain insight into who loses access to the beach during deposition activities and which groups are more vulnerable to the public health advisories resulting from emergency sediment deposition. Furthermore, survey questions inquired about public perception of sediment deposition activities and the social impacts of extended beach closures. The survey aimed to understand how knowledge of sediment deposition might influence future beach visits, identify primary information sources for beach closures, and examine how income and beach activities correlate with responses to poor water quality. The survey was deployed at the two beach sites, Goleta Beach and Carpinteria Beach, for a more comprehensive understanding of deposition impacts across communities with differing demographic compositions.
+
+[View Full Survey Questions](https://docs.google.com/document/d/1H9RslrHXjcshR8Vd1wYfeqU0V6xNEA-w/edit?usp=sharing&ouid=108643069442139743729&rtpof=true&sd=true)
+
+------------------------------------------------------------------------
+
+## Understanding a newly found copepod species
+
+*A Discovery of an unidentified species of Choniosphaera (Copepoda; Nicothoidae) infesting the eggs of three species of cancrid crabs from Santa Barbara, California*
+
+**Authors:** Jaden E. Orli, Sophia M. Lecuona, Gabrielle O. Plewe, Carson N. Gadler, Armand M. Kuris, Zoe L. Zilz, Danny Tang
+
+We report the **first detection of a nicothoid copepod in the genus *Choniosphaera*** infesting the egg masses of three commercially important rock crab species (*Metacarcinus anthonyi*, *Romaleon antennarium*, and *Cancer productus*) along the Santa Barbara coast. This previously undocumented egg predator was discovered during routine laboratory work and subsequently found to be widespread in local crab populations. Our observations suggest that *Choniosphaera* sp. may significantly impact crab fecundity, posing a potential threat to the region’s rock crab fishery. This study highlights the importance of continued monitoring for emerging parasitic threats in marine ecosystems and calls for further research into the ecological impact and distribution of this copepod.
+
+*In review at Ecology (Scientific Naturalist)*
+
+------------------------------------------------------------------------
+
+## Do environmental parameters correlate to white shark presence?
+
+*White Shark Encounters in Seal Island, South Africa*
+
+This project involved analyzing the relationship between environmental parameters and white shark presence at Seal Island, South Africa. The vulnerable apex predator *Carcharodon carcharias*, colloquially referred to as white sharks, is an important species in Seal Island, False Bay, South Africa. Because it is so easily impacted by human interference, information on the species is very necessary to produce efficient methods of conservation. A large threat, fishing in Seal Island needs more information on how to avoid encounters with white sharks that can be detrimental to their health, such as accidentally being caught by fisheries. This report used number of sharks as a response variable, *y*, in statistical analyses with exploratory variables time of day (*AM/PM*), water temperature (*°C*), water visibility (*good, moderate, poor*), and sea state (*calm, choppy, rough*). The only exploratory variable that had a significant impact on the number of sharks was water visibility, in which poor water visibility significantly reduced the number of white sharks present.
+
+[View Report Here](https://drive.google.com/file/d/1paY-DxmTAdsxRVty2QZRQIta3o-6EjJc/view)

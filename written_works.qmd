@@ -1,0 +1,109 @@
+---
+title: "Video Projects"
+toc: true
+---
+
+## Watershed Education Video
+
+***Client:** Santa Barbara Channelkeeper (2025)*
+
+## ![](images/Screen%20Shot%202025-06-12%20at%206.43.20%20PM.png)
+
+This project involved creating a video for Santa Barbara Channelkeeper to educate local elementary and middle school students about watersheds and their importance. The video is designed to be engaging and informative, highlighting the definitions of a watershed, how humans interact with it, and why we should keep it clean.
+
+[View Video Here](https://drive.google.com/file/d/1dPgy6WWxByzDkITWe7P7i6dwtUXVitjR/view?usp=sharing)
+
+### The Making of "Watersheds: From Mountains to Ocean"
+
+*An Educational Film Project*
+
+#### Project Overview
+
+"Watersheds: From Mountains to Ocean" was created as part of a collaborative effort with Santa Barbara Channelkeeper, a local environmental organization dedicated to protecting local waterways. The project aimed to translate their existing in-person watershed education program into an engaging video format for elementary and middle school students throughout Santa Barbara.
+
+#### The Challenge
+
+Santa Barbara Channelkeeper had been successfully conducting hands-on watershed education in local schools, but they needed a way to reach more students and provide consistent educational content. The challenge was to capture the interactive, engaging nature of their live presentations in a video format that would resonate with young learners.
+
+#### Educational Goals
+
+The film was designed to help students understand six key concepts:
+
+-   **What is a watershed?**
+    -   The basic definition and structure of watershed systems
+-   **Human interaction**
+    -   How communities live within and impact watersheds
+-   **Water sources**
+    -   Where our drinking water originates and travels
+-   **Pollution awareness**
+    -   Identifying different types of watershed pollution
+-   **Water treatment**
+    -   Understanding how water is cleaned and processed
+-   **Ecosystem inhabitants**
+    -   Learning about the wildlife that depends on healthy watersheds
+
+#### Production Process
+
+It all starts with some storyboards...
+
+::: {layout-ncol=2}
+
+![](images/Screen Shot 2025-05-08 at 6.11.09 PM.png){width="481"}
+
+
+![](images/Screen Shot 2025-05-08 at 6.02.44 PM.png){width="351"}
+
+:::
+
+... and a script!
+
+##### Animation and Visual Effects
+
+One of the most exciting aspects of the production was incorporating both my own personal animation created using Procreate on my iPad and one AI-generated animation through RunwayML. This technology allowed us to:
+
+-   Create a realistic dynamic steelhead trout that brought the endangered species in our local watershed to life
+-   Develop engaging visual elements that would capture students' attention while maintaining educational accuracy, teaching them the word "spawn" by instead calling it "fish babies" in the animation!
+
+##### Filming and Footage
+
+The project combined footage I took on a GoPro HERO 12 with material from Eric Foote (drone footage), SBCK (underwater videos), and Adobe Stock (boy drinking water, Santa Barbara city view, etc) to create a comprehensive visual narrative.
+
+The filming process involved capturing local Santa Barbara watershed environments to give students a real connection to their own community's water systems.
+
+#### Audio Design and Music
+
+Music selection proved to be one of the more challenging aspects of the production. Finding the right balance between engaging young audiences and maintaining an educational tone required extensive research and testing. The final audio design needed to support the learning objectives while keeping students interested throughout the presentation. Thankfully, I found a licensed Adobe Stock music track that fit the bill perfectly, providing an upbeat yet educational background that complemented the visuals.
+
+I also recorded a voice over of myself reading the script develped with Laura and Penny from SBCK, which was carefully crafted to be clear and engaging for young audiences. This was recorded using LogicPro.
+
+#### Post-Production
+
+The editing process involved weaving together multiple elements - live footage, animations, graphics, and audio - into a cohesive educational experience. Special attention was paid to pacing and visual transitions to maintain student engagement while allowing time for concept absorption.
+
+#### Collaborative Effort
+
+This project was brought to life through the combined efforts of:
+
+-   **Laura Sanchez**, Project coordination and production support
+-   **Penny Owens**, Educational content development and community outreach
+-   **Alexandra Phillips**, Technical and resource support
+-   **Eric Foote**, Drone footage and cinematography
+-   **Guillermo and Tera Lecuona**, Animation and voice over assistance
+
+#### Impact and Distribution
+
+The completed film serves as a valuable educational resource that can be used in classrooms throughout Santa Barbara County and beyond. By creating this video, Santa Barbara Channelkeeper can now reach students who might not otherwise have access to their watershed education program, extending their environmental education mission to a broader audience.
+
+#### Reflection
+
+Creating educational content for young audiences requires a delicate balance of entertainment and information. This project succeeded in translating complex environmental concepts into accessible, engaging content that empowers students to understand their role in protecting local watersheds. The collaboration between filmmakers and environmental educators resulted in a resource that will continue to educate and inspire future generations of environmental stewards. I look forward to seeing how this video will be used in classrooms and the impact it will have on students' understanding of their local watersheds!
+
+## ¿Qué piensas?
+
+*An interview with Guillermo Lecuona about Language Brokering and Code-Switching (2021)*
+
+[![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeEUTjWaZGe7_OiuYEnMui0nWCSGYr3JGwB3CGAbbs8-0NiJ3sDh4JPBM28akdaQJIsx4kggkNRRQTe-vPCIPiacQB8MosgS13pev5XvJuim3KjD5U3qkqndkY1k9QryTcEbh0EXQ?key=9WpDRTgeiAKdg-FNHM2SLw)](https://www.youtube.com/watch?v=cISrOJqMK6E)
+
+This project involved interviewing my father, Guillermo Lecuona, about his experiences with language brokering and code-switching. The interview was conducted in English for a course learning about importance of language in our lives and how it shapes our identities. The interviewee shared personal anecdotes and insights into the challenges and benefits of being bilingual, particularly in the context of his upbringing.
+
+[View Video Here](https://www.youtube.com/watch?v=cISrOJqMK6E)
