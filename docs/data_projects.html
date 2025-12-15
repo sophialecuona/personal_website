@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.3.450">
+<meta name="generator" content="quarto-1.4.553">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -45,7 +45,13 @@ ul.task-list li input[type="checkbox"] {
   "collapse-after": 3,
   "panel-placement": "end",
   "type": "overlay",
-  "limit": 20,
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
   "language": {
     "search-no-results-text": "No results",
     "search-matching-documents-text": "matching documents",
@@ -54,6 +60,7 @@ ul.task-list li input[type="checkbox"] {
     "search-more-match-text": "more match in this document",
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
     "search-detached-cancel-button-title": "Cancel",
     "search-submit-button-title": "Submit",
     "search-label": "Search"
@@ -67,9 +74,9 @@ ul.task-list li input[type="checkbox"] {
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
-    <nav class="navbar navbar-expand-lg navbar-dark ">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
-      <div class="navbar-brand-container">
+      <div class="navbar-brand-container mx-auto">
     <a href="./index.html" class="navbar-brand navbar-brand-logo">
     <img src="./media/logo_wave.svg" alt="" class="navbar-logo">
     </a>
@@ -84,33 +91,33 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html" rel="" target="">
- <span class="menu-text">Home</span></a>
+    <a class="nav-link" href="./index.html"> 
+<span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./about.html" rel="" target="">
- <span class="menu-text">About</span></a>
+    <a class="nav-link" href="./about.html"> 
+<span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./data_projects.html" rel="" target="" aria-current="page">
- <span class="menu-text">Projects</span></a>
+    <a class="nav-link active" href="./data_projects.html" aria-current="page"> 
+<span class="menu-text">Projects</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./written_works.html" rel="" target="">
- <span class="menu-text">Videos</span></a>
+    <a class="nav-link" href="./written_works.html"> 
+<span class="menu-text">Videos</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./presentations.html" rel="" target="">
- <span class="menu-text">Presentations</span></a>
+    <a class="nav-link" href="./presentations.html"> 
+<span class="menu-text">Presentations</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./contact.html" rel="" target="">
- <span class="menu-text">Contact</span></a>
+    <a class="nav-link" href="./contact.html"> 
+<span class="menu-text">Contact</span></a>
   </li>  
 </ul>
-            <div class="quarto-navbar-tools ms-auto">
-</div>
           </div> <!-- /navcollapse -->
+          <div class="quarto-navbar-tools">
+</div>
       </div> <!-- /container-fluid -->
     </nav>
 </header>
@@ -123,12 +130,12 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#finding-balance-in-our-managed-beaches" id="toc-finding-balance-in-our-managed-beaches" class="nav-link active" data-scroll-target="#finding-balance-in-our-managed-beaches">Finding Balance in Our Managed Beaches</a>
+  <li><a href="#understanding-a-newly-found-copepod-species" id="toc-understanding-a-newly-found-copepod-species" class="nav-link active" data-scroll-target="#understanding-a-newly-found-copepod-species">Understanding a newly found copepod species</a></li>
+  <li><a href="#finding-balance-in-our-managed-beaches" id="toc-finding-balance-in-our-managed-beaches" class="nav-link" data-scroll-target="#finding-balance-in-our-managed-beaches">Finding Balance in Our Managed Beaches</a>
   <ul class="collapse">
   <li><a href="#does-inland-sediment-on-beaches-increase-the-chance-of-beach-advisories" id="toc-does-inland-sediment-on-beaches-increase-the-chance-of-beach-advisories" class="nav-link" data-scroll-target="#does-inland-sediment-on-beaches-increase-the-chance-of-beach-advisories">Does inland sediment on beaches increase the chance of beach advisories?</a></li>
   <li><a href="#who-is-affected-by-beach-advisories-and-closures" id="toc-who-is-affected-by-beach-advisories-and-closures" class="nav-link" data-scroll-target="#who-is-affected-by-beach-advisories-and-closures">Who is affected by beach advisories and closures?</a></li>
   </ul></li>
-  <li><a href="#understanding-a-newly-found-copepod-species" id="toc-understanding-a-newly-found-copepod-species" class="nav-link" data-scroll-target="#understanding-a-newly-found-copepod-species">Understanding a newly found copepod species</a></li>
   <li><a href="#do-environmental-parameters-correlate-to-white-shark-presence" id="toc-do-environmental-parameters-correlate-to-white-shark-presence" class="nav-link" data-scroll-target="#do-environmental-parameters-correlate-to-white-shark-presence">Do environmental parameters correlate to white shark presence?</a></li>
   </ul>
 </nav>
@@ -151,13 +158,26 @@ ul.task-list li input[type="checkbox"] {
   </div>
   
 
+
 </header>
 
+
+<section id="understanding-a-newly-found-copepod-species" class="level2">
+<h2 class="anchored" data-anchor-id="understanding-a-newly-found-copepod-species">Understanding a newly found copepod species</h2>
+<p><em>Discovery of an unidentified species of nicothoid copepod infesting cancrid crabs in Santa Barbara, California</em></p>
+<p><strong>Authors:</strong> Jaden E. Orli, Sophia M. Lecuona, Gabrielle O. Plewe, Carson N. Gadler, Armand M. Kuris, Danny Tang, Zoe L. Zilz</p>
+<p>We report the <strong>first detection of a nicothoid copepod in the genus <em>Choniosphaera</em></strong> infesting the egg masses of three commercially important rock crab species (<em>Metacarcinus anthonyi</em>, <em>Romaleon antennarium</em>, and <em>Cancer productus</em>) along the Santa Barbara coast. This previously undocumented egg predator was discovered during routine laboratory work and subsequently found to be widespread in local crab populations. Our observations suggest that <em>Choniosphaera</em> sp. may significantly impact crab fecundity, posing a potential threat to the region’s rock crab fishery. This study highlights the importance of continued monitoring for emerging parasitic threats in marine ecosystems and calls for further research into the ecological impact and distribution of this copepod.</p>
+<p><em>Published in <strong>Ecology (Scientific Naturalist)</strong> on December 9th, 2025. Click <a href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.70263">here</a> to read it!</em></p>
+<hr>
+</section>
 <section id="finding-balance-in-our-managed-beaches" class="level2">
 <h2 class="anchored" data-anchor-id="finding-balance-in-our-managed-beaches">Finding Balance in Our Managed Beaches</h2>
 <p><em>Policy Recommendations to Mitigate Emergency Sediment Disposal Impacts in Santa Barbara County</em></p>
-<div class="quarto-layout-panel">
-<div class="quarto-layout-row quarto-layout-valign-top">
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout-ncol="2">
+<div class="quarto-layout-row">
 <div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
 <p><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcmEjMTaT6P0t7J0jgPYjOjBG0jYGKwRmkeTgISy46AyVvttFXoLLo7Pu5qaVFYUcSIVClHb7wwWTFCd1nr45UMiMJTSJiEHE51xU-uVNxUQBFZQTrn6K7uFLFCPxxesuSap9UH9w?key=9WpDRTgeiAKdg-FNHM2SLw.png" class="img-fluid" width="300"></p>
 </div>
@@ -180,14 +200,6 @@ ul.task-list li input[type="checkbox"] {
 <p><a href="https://docs.google.com/document/d/1H9RslrHXjcshR8Vd1wYfeqU0V6xNEA-w/edit?usp=sharing&amp;ouid=108643069442139743729&amp;rtpof=true&amp;sd=true">View Full Survey Questions</a></p>
 <hr>
 </section>
-</section>
-<section id="understanding-a-newly-found-copepod-species" class="level2">
-<h2 class="anchored" data-anchor-id="understanding-a-newly-found-copepod-species">Understanding a newly found copepod species</h2>
-<p><em>A Discovery of an unidentified species of Choniosphaera (Copepoda; Nicothoidae) infesting the eggs of three species of cancrid crabs from Santa Barbara, California</em></p>
-<p><strong>Authors:</strong> Jaden E. Orli, Sophia M. Lecuona, Gabrielle O. Plewe, Carson N. Gadler, Armand M. Kuris, Zoe L. Zilz, Danny Tang</p>
-<p>We report the <strong>first detection of a nicothoid copepod in the genus <em>Choniosphaera</em></strong> infesting the egg masses of three commercially important rock crab species (<em>Metacarcinus anthonyi</em>, <em>Romaleon antennarium</em>, and <em>Cancer productus</em>) along the Santa Barbara coast. This previously undocumented egg predator was discovered during routine laboratory work and subsequently found to be widespread in local crab populations. Our observations suggest that <em>Choniosphaera</em> sp. may significantly impact crab fecundity, posing a potential threat to the region’s rock crab fishery. This study highlights the importance of continued monitoring for emerging parasitic threats in marine ecosystems and calls for further research into the ecological impact and distribution of this copepod.</p>
-<p><em>In review at Ecology (Scientific Naturalist)</em></p>
-<hr>
 </section>
 <section id="do-environmental-parameters-correlate-to-white-shark-presence" class="level2">
 <h2 class="anchored" data-anchor-id="do-environmental-parameters-correlate-to-white-shark-presence">Do environmental parameters correlate to white shark presence?</h2>
@@ -278,10 +290,27 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     // clear code selection
     e.clearSelection();
   });
-  function tippyHover(el, contentFn) {
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp('/' + window.location.host + '/');
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
     const config = {
       allowHTML: true,
-      content: contentFn,
       maxWidth: 500,
       delay: 100,
       arrow: false,
@@ -291,8 +320,17 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       interactive: true,
       interactiveBorder: 10,
       theme: 'quarto',
-      placement: 'bottom-start'
+      placement: 'bottom-start',
     };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
     window.tippy(el, config); 
   }
   const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
@@ -304,7 +342,130 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
-      return note.innerHTML;
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
     });
   }
       let selectedAnnoteEl;
@@ -348,6 +509,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
             }
             div.style.top = top - 2 + "px";
             div.style.height = height + 4 + "px";
+            div.style.left = 0;
             let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
             if (gutterDiv === null) {
               gutterDiv = window.document.createElement("div");
@@ -373,6 +535,32 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         });
         selectedAnnoteEl = undefined;
       };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
       // Attach click handler to the DT
       const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
       for (const annoteDlNode of annoteDls) {
@@ -435,13 +623,18 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </div> <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">
-    <div class="nav-footer-left">sophiamireille@bren.ucsb.edu</div>   
+    <div class="nav-footer-left">
+<p>sophiamireille@bren.ucsb.edu</p>
+</div>   
     <div class="nav-footer-center">
       &nbsp;
     </div>
-    <div class="nav-footer-right">Source code available on <a href="https://github.com/samanthacsik/OHI-methods-EXAMPLE"> GitHub</a></div>
+    <div class="nav-footer-right">
+<p>Source code available on <a href="https://github.com/samanthacsik/OHI-methods-EXAMPLE">{{&lt; fa brands github "the GitHub octocat" &gt;}} GitHub</a></p>
+</div>
   </div>
 </footer>
+
 
 
 
